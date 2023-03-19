@@ -25,3 +25,13 @@ body {
     font-size: 24px;
     color: #ffffff;
 }
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    gap: 16px;
+}
