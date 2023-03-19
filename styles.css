@@ -36,3 +36,8 @@ ul {
     gap: 16px;
     list-style-type: none;
 }
+
+#instagram-thumbnail {
+    width: 24x;
+    height: 24px;
+}
