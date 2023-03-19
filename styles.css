@@ -6,3 +6,9 @@ body {
     font-size: 18px;
     color: #d8d8d8
 }
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
