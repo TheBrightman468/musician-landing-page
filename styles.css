@@ -77,3 +77,10 @@ h1 {
     font-weight: 700;
     color: #000000;
 }
+
+#button-header {
+    background-color: #24e668;
+    padding: 12px;
+    border-radius: 10px;
+    border: #000000;
+}
