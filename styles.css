@@ -86,3 +86,7 @@ h1 {
     border-radius: 10px;
     border: #000000;
 }
+
+.hyperlink {
+    text-decoration: none;
+}
