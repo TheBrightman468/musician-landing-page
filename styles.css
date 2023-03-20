@@ -59,3 +59,10 @@ h1 {
     font-weight: 900;
     color: #ffffff;
 }
+
+#image-header {
+    width: 600px;
+    height: auto;
+    flex: auto;
+    margin-left: 48px;
+}
