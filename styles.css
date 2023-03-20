@@ -12,6 +12,7 @@ body {
     background-color: #0f1722;
     padding-left: 250px;
     padding-right: 250px;
+    overflow: hidden;
 }
 
 .header-top {
