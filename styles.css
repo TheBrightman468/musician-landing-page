@@ -66,3 +66,7 @@ h1 {
     flex: auto;
     margin-left: 48px;
 }
+
+#artist-bio {
+    max-width: 70ch;
+}
