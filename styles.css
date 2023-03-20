@@ -43,3 +43,11 @@ ul {
     width: 24x;
     height: 24px;
 }
+
+.header-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 125px;
+    margin-bottom: 125px;
+}
