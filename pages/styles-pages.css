@@ -74,6 +74,11 @@ h1 {
     white-space: nowrap;
 }
 
+#artist-about {
+    max-width: 70ch;
+    min-width: 30ch;
+}
+
 #button-link {
     text-decoration: none;
     font-size: 18px;
