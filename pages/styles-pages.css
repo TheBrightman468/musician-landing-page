@@ -4,11 +4,11 @@ body {
     font-family: Verdana, Arial, sans-serif;
     font-size: 18px;
     color: #e9e9e9;
-    background-color: #0f1722;   /*added background colour*/
+    background-color: #0f1722;
 }
 
 .header-container {
-    display: flex;          /*removed background color*/
+    display: flex;
     flex-direction: column;
     padding-left: 250px;
     padding-right: 250px;
@@ -49,29 +49,29 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 72px;         /*change here */
-    margin-bottom: 72px;      /*change here */
+    margin-top: 72px;
+    margin-bottom: 72px;
 }
 
 h1 {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 30px;        /*change here*/
+    font-size: 30px;
     font-weight: 900;
     color: #ffffff;
 }
 
 #image-header {
     width: 600px;
-    max-width: 800px;      /*change here*/
-    min-width: 250px;      /*change here*/
+    max-width: 800px;
+    min-width: 250px;
     height: auto;
     flex: auto;
     margin-left: 48px;
 }
 
 #artist-bio {
-    white-space: nowrap;     /*got rid of max-length and added white-space*/
+    white-space: nowrap;
 }
 
 #button-link {
@@ -82,7 +82,7 @@ h1 {
 }
 
 #button-header {
-    background-color: #2893f7;    /*change color here*/
+    background-color: #2893f7;
     padding: 12px;
     border-radius: 10px;
     border: #000000;
