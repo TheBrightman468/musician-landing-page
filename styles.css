@@ -64,6 +64,7 @@ h1 {
 #image-header {
     width: 600px;
     max-width: 900px;
+    min-width: 300px;
     height: auto;
     flex: auto;
     margin-left: 48px;
