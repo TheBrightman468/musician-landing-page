@@ -71,7 +71,7 @@ h1 {
 }
 
 #artist-bio {
-    white-space: nowrap;
+    min-width: 28ch;
 }
 
 #artist-about {
