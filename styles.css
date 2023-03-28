@@ -136,3 +136,9 @@ h1 {
     justify-content: center;
     gap: 48px;
 }
+
+.image-sub-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
