@@ -128,3 +128,9 @@ h1 {
     font-size: 20px;
     font-style: italic;
 }
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
