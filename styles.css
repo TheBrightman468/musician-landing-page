@@ -99,3 +99,10 @@ h1 {
     justify-content: space-between;
     align-items: flex-start;
 }
+
+.body-container-one {
+    display: flex;
+    flex-direction: column;
+    padding-left: 250px;
+    padding-right: 250px;
+}
