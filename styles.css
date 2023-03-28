@@ -103,8 +103,8 @@ h1 {
 .body-container-one {
     display: flex;
     flex-direction: column;
-    padding-left: 250px;
-    padding-right: 250px;
+    margin-left: 250px;
+    margin-right: 250px;
     align-items: center;
     padding-bottom: 48px;
 }
