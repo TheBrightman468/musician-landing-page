@@ -158,3 +158,9 @@ h1 {
     padding-top: 125px;
     padding-bottom: 125px;
 }
+
+.body-text-one {
+    font-size: 24px;
+    max-width: 52ch;
+    min-width: 29ch;
+}
