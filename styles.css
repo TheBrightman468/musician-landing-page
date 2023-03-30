@@ -146,6 +146,8 @@ h1 {
 .body-container-two img {
     width: 450px;
     height: auto;
+    margin-left: 48px;
+    flex: auto;
 }
 
 .body-container-two {
