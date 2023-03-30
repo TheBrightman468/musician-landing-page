@@ -144,10 +144,10 @@ h1 {
 }
 
 .body-container-two img {
-    width: 450px;
+    width: 500px;
     height: auto;
     margin-left: 48px;
-    flex: auto;
+    flex: 0, 1, auto;
 }
 
 .body-container-two {
