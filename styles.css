@@ -147,3 +147,14 @@ h1 {
     width: 450px;
     height: auto;
 }
+
+.body-container-two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0f1722;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
