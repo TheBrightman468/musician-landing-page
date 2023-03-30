@@ -164,3 +164,8 @@ h1 {
     max-width: 52ch;
     min-width: 29ch;
 }
+
+.body-text-two {
+    font-size: 22px;
+    text-align: end;
+}
