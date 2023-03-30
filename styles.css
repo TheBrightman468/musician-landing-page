@@ -146,7 +146,7 @@ h1 {
 .body-container-two img {
     width: 500px;
     height: auto;
-    margin-left: 48px;
+    margin-right: 48px;
     flex: 0, 1, auto;
 }
 
