@@ -159,6 +159,7 @@ h1 {
     padding-right: 250px;
     padding-top: 125px;
     padding-bottom: 125px;
+    overflow: hidden;
 }
 
 .body-text-one {
