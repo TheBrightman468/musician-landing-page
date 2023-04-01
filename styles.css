@@ -147,7 +147,8 @@ h1 {
     width: 500px;
     height: auto;
     margin-right: 48px;
-    flex: 0, 1, auto;
+    flex: auto;
+    min-width: 200px;      
 }
 
 .body-container-two {
