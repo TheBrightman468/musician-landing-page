@@ -184,3 +184,8 @@ h1 {
     margin: 100px 250px;
     padding: 48px 125px;
 }
+
+.button-text strong {
+    font-size: 32px;
+    white-space: nowrap;
+}
