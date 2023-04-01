@@ -74,7 +74,7 @@ h1 {
     min-width: 28ch;
 }
 
-#artist-about {
+.artist-about {
     max-width: 55ch;
     min-width: 25ch;
     font-size: 22px;
