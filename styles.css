@@ -174,3 +174,13 @@ h1 {
     font-size: 22px;
     text-align: end;
 }
+
+.body-container-three {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0f1722;
+    border-radius: 20px;
+    margin: 100px 250px;
+    padding: 48px 125px;
+}
