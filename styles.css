@@ -197,3 +197,11 @@ h1 {
 .body-container-three .button a {
     white-space: nowrap;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f1722;
+    padding: 24px;
+}
