@@ -117,4 +117,5 @@ h1 {
 .footer p {
     color: #ffffff;
     font-size: 20px;
+    white-space: nowrap;
 }
