@@ -74,14 +74,14 @@ h1 {
     max-width: 70ch;
 }
 
-#button-link {
+.button a {
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
     color: #000000;
 }
 
-#button-header {
+.button {
     background-color: #24e668;
     padding: 12px;
     border-radius: 10px;
