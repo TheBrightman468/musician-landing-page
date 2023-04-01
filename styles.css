@@ -118,9 +118,9 @@ h1 {
 }
 
 .gallery-image {
-    height: 250px;
+    height: 200px;
     width: auto;
-    min-height: 250px;
+    min-height: 100px;
     border-radius: 20px;
     border: 8px solid #242323;
 }
