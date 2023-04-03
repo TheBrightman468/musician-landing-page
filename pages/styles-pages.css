@@ -27,6 +27,7 @@ body {
     font-weight: 600;
     padding-right: 24px;
     white-space: nowrap;
+    text-decoration: none;
 }
 
 ul {
