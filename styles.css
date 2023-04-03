@@ -21,7 +21,7 @@ body {
     align-items: center;
 }
 
-#header-title {
+.header-title {
     font-size: 24px;
     color: #ffffff;
     font-weight: 600;
@@ -40,7 +40,7 @@ ul {
     list-style-type: none;
 }
 
-#instagram-thumbnail {
+.instagram-thumbnail {
     width: 24x;
     height: 24px;
 }
@@ -61,7 +61,7 @@ h1 {
     color: #ffffff;
 }
 
-#image-header {
+.image-header {
     width: 600px;
     max-width: 900px;
     min-width: 320px;
@@ -70,7 +70,7 @@ h1 {
     margin-left: 48px;
 }
 
-#artist-bio {
+.artist-bio {
     max-width: 70ch;
 }
 

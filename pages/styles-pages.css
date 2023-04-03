@@ -21,7 +21,7 @@ body {
     align-items: center;
 }
 
-#header-title {
+.header-title {
     font-size: 24px;
     color: #ffffff;
     font-weight: 600;
@@ -40,7 +40,7 @@ ul {
     list-style-type: none;
 }
 
-#instagram-thumbnail {
+.instagram-thumbnail {
     width: 24x;
     height: 24px;
 }
@@ -61,7 +61,7 @@ h1 {
     color: #ffffff;
 }
 
-#image-header {
+.image-header {
     width: 600px;
     max-width: 800px;
     min-width: 250px;
@@ -70,7 +70,7 @@ h1 {
     margin-left: 48px;
 }
 
-#artist-bio {
+.artist-bio {
     min-width: 28ch;
 }
 
@@ -80,14 +80,14 @@ h1 {
     font-size: 22px;
 }
 
-#button-link {
+.button-link {
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
     color: #000000;
 }
 
-#button-header {
+.button-header {
     background-color: #2893f7;
     padding: 12px;
     border-radius: 10px;
