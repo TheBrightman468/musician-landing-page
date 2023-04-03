@@ -185,6 +185,9 @@ h1 {
     border-radius: 20px;
     margin: 100px 250px;
     padding: 48px 125px;
+    width: 562px;
+    flex: auto;
+    align-self: center;
 }
 
 .button-text strong {
