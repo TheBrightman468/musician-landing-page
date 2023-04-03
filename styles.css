@@ -142,16 +142,16 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0px 18px;     /*change 24px to 18px*/
+    padding: 0px 18px;
 }
 
 .body-container-two img {
-    width: 375px;            /*change from 500px to 375px*/
+    width: 375px;
     height: auto;
     margin-right: 48px;
     flex: auto;
     min-width: 250px;
-    max-width: 500px;     /*change from 750px to 500px*/
+    max-width: 500px;
 }
 
 .body-container-two {
