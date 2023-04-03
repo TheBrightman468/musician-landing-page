@@ -134,14 +134,15 @@ h1 {
 
 .image-container {
     display: flex;
-    justify-content: center;
-    gap: 48px;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .image-sub-container {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 0px 24px;
 }
 
 .body-container-two img {
