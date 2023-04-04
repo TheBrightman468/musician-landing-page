@@ -1,6 +1,13 @@
+html {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 body {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     font-family: Verdana, Arial, sans-serif;
     font-size: 18px;
     color: #e9e9e9;
