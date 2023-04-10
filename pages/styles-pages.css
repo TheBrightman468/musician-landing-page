@@ -78,6 +78,15 @@ h1 {
     margin-left: 48px;
 }
 
+.about-image {
+    width: 450px;
+    max-width: 500px;
+    min-width: 250px;
+    height: auto;
+    flex: auto;
+    margin-left: 48px;
+}
+
 .artist-bio {
     min-width: 28ch;
 }
