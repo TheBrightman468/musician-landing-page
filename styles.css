@@ -134,7 +134,7 @@ h1 {
 
 .image-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -143,6 +143,11 @@ h1 {
     flex-direction: column;
     align-items: center;
     padding: 0px 18px;
+}
+
+.image-box {
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .body-container-two img {
